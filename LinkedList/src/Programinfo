@@ -6,3 +6,16 @@ Practice5:Find the middle Element of a linked list.(Optimized approach)
 Practice6:Reverse a Linked List in groups of given size
 Practice7:Reverse alternate K nodes in a Singly Linked List
 Practice8:Check if a linked list is a circular linked list.
+practice9:Write a program to Detect loop in a linked list.(Hashing Approach)
+practice10:Write a program to Detect loop in a linked list.(Floyd’s Cycle-Finding Algorithm )
+practice11:Write a program to Starting node of loop in a linked list.(Floyd’s Cycle-Finding Algorithm )
+practice12:Write a program to remove loop in a linked list.(Floyd’s Cycle-Finding Algorithm )
+practice13:Remove Duplicates in a sorted Linked List.
+practice14:Remove Duplicates in a sorted and Unsorted Linked List.(Another map Approach)
+practice15:Remove Duplicates in a sorted  Linked List.(using recursion Approach)
+practice16:Remove Duplicates in a Unsorted  Linked List.
+practice17:Sort linked list containing 0’s, 1’s, and 2’s in a single traversal
+practice18:Sort linked list containing 0’s, 1’s, and 2’s.
+
+
+
