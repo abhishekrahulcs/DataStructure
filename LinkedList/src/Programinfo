@@ -21,3 +21,9 @@ practice20:Merge two sorted linked lists into one
 practice21:Write a Program to check whether the Singly Linked list is a palindrome or not.(Using stack)
 Practice22:Write a Program to check whether the Singly Linked list is a palindrome or not.(Best approach)
 Practice23:Recursively check if the linked list of characters is palindrome or not
+Practice24:Add two linked lists without using any extra space
+Practice25:Clone a linked list with next and random pointer in O(1) space(Not working)
+Practice26:Clone a linked list with next and random pointer in O(1) space(working)
+Practice27:Merge Sort for Linked Lists(Iteration)O(n*log n)
+Practice28:Merge Sort for Linked Lists(Recursion)O(n*log n)
+Practice29:QuickSort on Singly Linked List
