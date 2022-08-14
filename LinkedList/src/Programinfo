@@ -27,3 +27,4 @@ Practice26:Clone a linked list with next and random pointer in O(1) space(workin
 Practice27:Merge Sort for Linked Lists(Iteration)O(n*log n)
 Practice28:Merge Sort for Linked Lists(Recursion)O(n*log n)
 Practice29:QuickSort on Singly Linked List
+Practice30:Flattening a Linked List
