@@ -1,0 +1,39 @@
+
+@functionalInterface --customised interface 
+public interface abhishek{
+int abhis(int a,int b);
+
+
+Built in interface --predefined interface
+presdicate 
+consumer 
+supplier
+function
+comparator 
+runnable 
+
+
+}
+
+Runnable r = new Runnable() {   
+           () {
+                System.out.println("Runnable Implementation Using Anonymous Inner Class");
+            }
+        };
+        
+ ()->System.out.println("Runnable Implementation Using Anonymous Inner Class");
+ 
+ Comparator<Student> idComparator = new Comparator<Student>() {
+          (Student s1, Student s2) {
+                return s1.getID()-s2.getID();
+            }
+        };
+        
+     
+        
+  Comparator<Student> idComparator =  (Student s1, Student s2)->s1.getID()-s2.getID();
+  
+  ActionListener  r=(ActionEvent e)-> label.setText("Sent");
+        
+ 
+           
