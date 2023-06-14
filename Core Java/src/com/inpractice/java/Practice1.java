@@ -27,6 +27,14 @@ public class Practice1 {
 		}
 		
 		return recursiveMethod(str.substring(1))+str.charAt(0);
-		
+		/*
+		 * 1st Call —> recursiveMethod(“MyJava”) 
+		 * 2nd Call —> recursiveMethod(“yJava”) +“M”
+		 * 3rd Call —> (recursiveMethod(“Java”) + “y”) + “M”
+		 *  4th call —>((recursiveMethod(“ava”) + “J”)+”y”) + “M”
+		 *  5th Call —>(((recursiveMethod(“va”) + “a”) + “J”)+”y”) + “M” 
+		 * 6th Call —>((((recursiveMethod(“a”) + “v”) + “a”) + “J”)+”y”) + “M”
+		 * 
+		 */
 	}
 }
