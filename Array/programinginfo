@@ -4,4 +4,5 @@
 4)Write a Java program to find all pairs of elements in an integer array whose sum is equal to a given number?
 5)Write a Java program to find continuous sub array whose sum is equal to a given number?
 6)Write a Java program to find the intersection of two arrays?
-7) Write a Java program to separate zeros from non-zeros in an integer array?
+7)Write a Java program to separate zeros from non-zeros in an integer array?(Moving Zeros To End Of An Array)
+8)Write a Java program to separate zeros from non-zeros in an integer array?(Moving Zeros To Front Of An Array)
