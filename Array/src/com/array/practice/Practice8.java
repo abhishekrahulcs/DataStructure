@@ -1,5 +1,7 @@
 package com.array.practice;
 
+import java.util.Arrays;
+
 //Moving Zeros To Front Of An Array
 public class Practice8 {
 
@@ -14,6 +16,19 @@ public class Practice8 {
 	}
 
 	private static void moveZerosToFront(int[] inputArray) {
+		
+		int counter=inputArray.length-1;
+		for (int i = inputArray.length-1; i>=0; i--) {
+         if (inputArray[i]!=0) {
+			inputArray[counter]=inputArray[i];
+			counter--;
+		}			
+		}
+		while(counter>=0) {
+			inputArray[counter]=0;
+			counter--;
+		}
+		System.out.println(Arrays.toString(inputArray));
 		
 	}
 
