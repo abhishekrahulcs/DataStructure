@@ -26,3 +26,12 @@
 26) Write a Java program to find array triplets such that sum of first two elements equals the third element?
 27)Array Rotation Program In Java-Left Rotation 
 28)Array Rotation Program In Java-right Rotation 
+
+// FAANG Array Question asked must 
+29_1.Reverse the array using temp
+30_1.Find the maximum and minimum element of an array
+31_1.Print K largest(or smallest) elements in an array
+31_2.K’th Smallest/Largest Element in Unsorted Array
+32. Sort the array which consists 0,1 and 2 without using sorting 
+33.Move all the negative elements to one side of the array 
+34.Minimize the maximum difference between the heights
